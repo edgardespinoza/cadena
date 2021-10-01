@@ -1,0 +1,6 @@
+[submodule "util-cadena-oea-expired"]
+	path = util-cadena-oea-expired
+	url = git@github.com:lacchain-cadena/util-cadena-oea-expired.git
+[submodule "util-cadena-oea-scripts"]
+	path = util-cadena-oea-scripts
+	url = git@github.com:lacchain-cadena/util-cadena-oea-scripts.git
